@@ -2,7 +2,7 @@
 <html>
   <head>
     <body>
-      <a href="./index.html">page 1</a>
+      <a href="index.html">page 1</a>
     </body>
   </head>
 </html>

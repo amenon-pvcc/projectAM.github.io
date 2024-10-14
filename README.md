@@ -1,4 +1,4 @@
-# projectAM.github.io
+# AMcivicproject.github.io
 <html>
   <head>
     <body>
